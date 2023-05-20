@@ -9,4 +9,3 @@ Com essa combinação de habilidades em ***Tecnologia da Informação*** e conhe
 <div><a href = "mailto:danielcosta@soulasalle.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/linkedin.com/in/daniel-costa-4a3b04b2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-![Snake animation](https://github.com/danielcosta04/danielcosta04/blob/output/github-contribution-grid-snake.svg)
